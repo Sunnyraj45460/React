@@ -1,0 +1,1 @@
+paste your own stripe secret and public key
